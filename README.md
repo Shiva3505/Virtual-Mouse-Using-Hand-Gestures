@@ -149,5 +149,5 @@ This Virtual Mouse project demonstrates how **computer vision + gesture recognit
 With accurate landmark detection, gesture rules, and smooth cursor tracking, the system provides an intuitive hands-free mouse experience.
 
 ---
-Developed by [G Shiva Ram Reddy]
+Developed by G Shiva Ram Reddy
 
